@@ -2,4 +2,4 @@
 R language can be used to simplify a model in Power BI by reducing number of measures and other calculated tables and columns.
 
 
-<img src="man/AgeGroup.jpeg" width="100%" />
+<img src="/AgeGroup.jpeg" width="100%" />
